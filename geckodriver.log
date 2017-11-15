@@ -1868,3 +1868,48 @@ JavaScript warning: https://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=15103060
 1510306066976	Marionette	DEBUG	Received DOM event "popstate" for "https://d.weibo.com/#1510306066975"
 1510306067282	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
 *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510473519258	geckodriver	INFO	geckodriver 0.19.0
+1510473519262	geckodriver	INFO	Listening on 127.0.0.1:55595
+1510473520388	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.sj0VHgIF9UMy"
+1510473520566	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510473520953	Marionette	INFO	Enabled via --marionette
+1510473522354	Marionette	INFO	Listening on port 35219
+1510473522405	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510473522443	Marionette	DEBUG	Register listener.js for window 2147483649
+1510473522468	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510473524438	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510473524438	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510473524649	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.weibo.com/visitor/visitor?entry=miniblog&a=enter&url=https%3A%2F%2Fweibo.com%2F&domain=.weibo.com&ua=php-sso_sdk_client-0.6.23&_rand=1510473523.5206"
+1510473524666	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.weibo.com/visitor/visitor?entry=miniblog&a=enter&url=https%3A%2F%2Fweibo.com%2F&domain=.weibo.com&ua=php-sso_sdk_client-0.6.23&_rand=1510473523.5206"
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1510473533228	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510473536246	Marionette	DEBUG	Received DOM event "beforeunload" for "https://weibo.com/"
+1510473537307	Marionette	DEBUG	Received DOM event "pagehide" for "https://weibo.com/"
+1510473537310	Marionette	DEBUG	Received DOM event "unload" for "https://weibo.com/"
+1510473537422	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://d.weibo.com/"
+1510473537423	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1510473537431	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+JavaScript warning: https://js2.t.sinajs.cn/t6/webim_prime/js/common/all.js?version=155c08c4424184f0, line 1: unreachable code after return statement
+JavaScript warning: https://js2.t.sinajs.cn/t6/webim_prime/js/common/all.js?version=155c08c4424184f0, line 1: unreachable code after return statement
+1510473538579	Marionette	DEBUG	Received DOM event "pageshow" for "https://d.weibo.com/"
+1510473538897	Marionette	DEBUG	Received DOM event "popstate" for "https://d.weibo.com/#1510473538895"
+1510473539134	Marionette	DEBUG	Received DOM event "popstate" for "https://d.weibo.com/#1510473539133"
+JavaScript warning: https://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1510473537563, line 139: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1510473537563, line 139: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1510473537563, line 172: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1510473537563, line 174: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1510473537563, line 198: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1510473537563, line 200: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1510473537563, line 207: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1510473537563, line 139: unreachable code after return statement
+1510473539368	Marionette	DEBUG	Received DOM event "popstate" for "https://d.weibo.com/#1510473539366"
+1510473539521	Marionette	DEBUG	Received DOM event "popstate" for "https://d.weibo.com/#1510473539520"
+1510473539668	Marionette	DEBUG	Received DOM event "popstate" for "https://d.weibo.com/#1510473539666"
+1510473539789	Marionette	DEBUG	Received DOM event "popstate" for "https://d.weibo.com/#1510473539787"
+1510473539911	Marionette	DEBUG	Received DOM event "popstate" for "https://d.weibo.com/#1510473539909"
+1510473540071	Marionette	DEBUG	Received DOM event "popstate" for "https://d.weibo.com/#1510473540070"
+1510473540317	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510473540566	Marionette	DEBUG	Received DOM event "popstate" for "https://d.weibo.com/#1510473540564"
+1510473540762	Marionette	DEBUG	Received DOM event "popstate" for "https://d.weibo.com/#1510473540761"
+1510473541047	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping

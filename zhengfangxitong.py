@@ -27,11 +27,11 @@ def get_data():
 
     data = {
         '__VIEWSTATE': VIEWSTATE,
-        'txtUserName': '150510216',
+        'txtUserName': '学号',
         'Textbox1': '',
-        'TextBox2': 'fifa2314034614',
+        'TextBox2': '密码',
         'txtSecretCode': Verification_Code,
-        'RadioButtonList1': '%D1%A7%C9%FA',
+        'RadioButtonList1': '学生',
         'Button1': '',
         'lbLanguage': '',
         'hidPdrs': '',
